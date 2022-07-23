@@ -1,0 +1,36 @@
+@font-face {
+  font-family: "iconfont"; /* Project id  */
+  src: url("iconfont.ttf?t=1658571961247") format("truetype");
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 32px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-bilibili:before {
+  content: "\e6b4";
+}
+
+.icon-user:before {
+  content: "\e7ae";
+}
+
+.icon-play:before {
+  content: "\e637";
+}
+
+.icon-search:before {
+  content: "\e523";
+}
+
+.icon-stop:before {
+  content: "\e61c";
+}
+
+.icon-bilibili1:before {
+  content: "\e609";
+}

@@ -1,0 +1,51 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2306764",
+      "name": "BILIBILI_LOGO",
+      "font_class": "bilibili",
+      "unicode": "e6b4",
+      "unicode_decimal": 59060
+    },
+    {
+      "icon_id": "4766293",
+      "name": "user",
+      "font_class": "user",
+      "unicode": "e7ae",
+      "unicode_decimal": 59310
+    },
+    {
+      "icon_id": "4933553",
+      "name": "play",
+      "font_class": "play",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "10747022",
+      "name": "search",
+      "font_class": "search",
+      "unicode": "e523",
+      "unicode_decimal": 58659
+    },
+    {
+      "icon_id": "14112232",
+      "name": "stop",
+      "font_class": "stop",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "26267546",
+      "name": "bilibili",
+      "font_class": "bilibili1",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    }
+  ]
+}
