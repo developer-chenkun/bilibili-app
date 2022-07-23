@@ -42,7 +42,7 @@ const toggleControll = () => {
 
 <style lang="less" scoped>
 .video-wrap {
-  width: 100vw;
+  width: 100%;
   height: 300px;
   position: relative;
 

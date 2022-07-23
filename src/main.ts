@@ -2,6 +2,7 @@ import { createApp } from "vue";
 import App from "./App.vue";
 import router from "./router";
 import "@/iconfont/iconfont.css";
+import "@/style/base.less";
 import "vant/lib/index.css";
 import Vant from "vant";
 import "@/mock/index";

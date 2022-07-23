@@ -23,6 +23,7 @@ const store = userStore();
 </script>
 <style lang="less" scoped>
 .app-header {
+  width: 100%;
   a {
     text-decoration: none;
   }
@@ -30,6 +31,7 @@ const store = userStore();
   align-items: center;
   padding: 2vw 3vw;
   background-color: #fff;
+  box-sizing: border-box;
   .logo {
     flex: 1;
     .icon-bilibili {

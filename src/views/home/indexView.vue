@@ -18,7 +18,6 @@ import VideoList from "./components/VideoList.vue";
 
 import axios from "axios";
 import { onBeforeMount, ref } from "vue";
-
 const videoList = ref([]);
 
 const getVideoList = () => {
