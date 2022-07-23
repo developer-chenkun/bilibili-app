@@ -1,4 +1,5 @@
 # bilibili-app
+## 这是一个vue3+pinia+ts小案例
 
 ## Project setup
 ```
